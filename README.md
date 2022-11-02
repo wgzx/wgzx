@@ -1,4 +1,4 @@
-Hi, I’m a fullstack developer focusing on Angular and React development.
+## Hi, I’m a fullstack developer focusing on Angular and React development.
 
 
 <b>FrontEnd:</b><br />
