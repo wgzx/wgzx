@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @wgzx
-- 👀 I’m interested in Frontend Angular and MEAN stack projects
-- 🌱 I’m currently learning Java, Spring Boot
-- 💞️ I’m looking to collaborate on Angular projects whose backend is Node or Java
-- 📫 How to reach me ...
+Hi, I’m a fullstack developer focusing on Angular and React development.
+
 
 <b>FrontEnd:</b><br />
 [![My Skills](https://skillicons.dev/icons?i=angular&theme=light)](https://angular.io)
