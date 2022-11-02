@@ -3,6 +3,8 @@
 
 <b>FrontEnd:</b><br />
 [![My Skills](https://skillicons.dev/icons?i=angular&theme=light)](https://angular.io)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=redux&theme=light)](https://redux.js.org/)
 [![My Skills](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org)
 [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -23,6 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org/)
+[![My Skills](https://skillicons.dev/icons?i=redis&theme=light)](https://redis.io/)
 [![My Skills](https://skillicons.dev/icons?i=nginx&theme=light)](https://www.nginx.com/)
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
 [![My Skills](https://skillicons.dev/icons?i=firebase&theme=light)](https://firebase.google.com/)
